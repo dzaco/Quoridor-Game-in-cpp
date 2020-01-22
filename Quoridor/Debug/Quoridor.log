@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  czlowiek.cpp
+  gra.cpp
+c:\users\dżaco\source\repos\quoridor\quoridor\plansza.h(13): warning C4309: "inicjowanie": obcięcie stałej wartości
+  gracz.cpp
+  komputer.cpp
+c:\users\dżaco\source\repos\quoridor\quoridor\komputer.cpp(44): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  menu.cpp
+c:\users\dżaco\source\repos\quoridor\quoridor\plansza.h(13): warning C4309: "inicjowanie": obcięcie stałej wartości
+  plansza.cpp
+c:\users\dżaco\source\repos\quoridor\quoridor\plansza.h(13): warning C4309: "inicjowanie": obcięcie stałej wartości
+  Quoridor.cpp
+c:\users\dżaco\source\repos\quoridor\quoridor\plansza.h(13): warning C4309: "inicjowanie": obcięcie stałej wartości
+  Generowanie kodu...
+c:\users\dżaco\source\repos\quoridor\quoridor\gracz.cpp(78): warning C4715: "gracz::get_SizeOfWallP”: niewszystkie ścieżki kodu zwracają wartość
+c:\users\dżaco\source\repos\quoridor\quoridor\gracz.cpp(68): warning C4715: "gracz::get_SizeOfWallH”: niewszystkie ścieżki kodu zwracają wartość
+c:\users\dżaco\source\repos\quoridor\quoridor\gra.cpp(165): warning C4715: "gra::get_SizeOfWallAll”: niewszystkie ścieżki kodu zwracają wartość
+  Quoridor.vcxproj -> C:\Users\DŻACO\source\repos\Quoridor\Debug\Quoridor.exe
